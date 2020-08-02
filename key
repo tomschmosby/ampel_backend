@@ -1,0 +1,1 @@
+ssh -L 5000:localhost:8080 -N -i /Users/tombuerkle/Desktop/HfG/2_semester/frontend_dev/steuerung/iot2-robot-base-rpi-master/id_rsa bitnami@63.32.119.241
